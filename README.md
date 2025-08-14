@@ -31,7 +31,7 @@ Here are some of my pinned repositories:
 
 ## 📫 Connect With Me
 - **GitHub:** [github.com/aryannaithani](https://github.com/aryannaithani)
-- **LinkedIn:** [linkedin.com/in/aryan-naithani](https://linkedin.com/in/aryan-naithani)
+- **LinkedIn:** [linkedin.com/in/aryan-naithani](https://linkedin.com/in/aryan-naithani-872576324/)
 - **Email:** aryan.naithani_cs.h24@gla.ac.in
 
 ---
