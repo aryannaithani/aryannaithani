@@ -8,17 +8,17 @@ I’m Aryan Naithani, a passionate developer and learner who loves working on pr
 ## 🔥 About Me
 - 💻 Skilled in **Python**, **Java**, **JavaScript**, and **SQL**.
 - 🌱 Learning and deepening my **AI/ML** knowledge.
-- 📚 Interested in **AI-powered applications**, **full-stack development**, and **data-driven solutions**.
-- ⚽ Outside coding: I’m into football, calisthenics, and fitness.
+- 📚 Interested in **AI-powered applications**, **Reinforcement Learning**, and **data-driven solutions**.
 
 ---
 
 ## 📌 Projects Highlight
 Here are some of my pinned repositories:
-1. **EventEase** – Event management platform with backend & database focus.
-2. **ClarifAI** – Real-time classroom assistant optimized with Intel OpenVINO.
-3. **Fitness Diet Planner** – Personalized diet plans using Spoonacular API and Flask.
 4. **MARL Football Simulation** – Multi agent football simulation.
+2. **ClarifAI** – Real-time classroom assistant optimized with Intel OpenVINO.
+1. **EventEase** – Event management platform with backend & database focus.
+3. **Fitness Diet Planner** – Personalized diet plans using Spoonacular API and Flask.
+
 
 ---
 
