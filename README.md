@@ -17,7 +17,7 @@ Here are some of my pinned repositories:
 1. **MARL Football Simulation** – Multi agent reinforcement football simulation.
 2. **ClarifAI** – Real-time classroom assistant optimized with Intel OpenVINO.
 3. **EventEase** – Event management platform with backend & database focus.
-4. **Fitness Diet Planner** – Personalized diet plans using Spoonacular API and Flask.
+4. **NutriTrack** – Personalized diet plans using Spoonacular API and Flask.
 
 
 ---
