@@ -14,10 +14,10 @@ I’m Aryan Naithani, a passionate developer and learner who loves working on pr
 
 ## 📌 Projects Highlight
 Here are some of my pinned repositories:
-4. **MARL Football Simulation** – Multi agent football simulation.
+1. **MARL Football Simulation** – Multi agent football simulation.
 2. **ClarifAI** – Real-time classroom assistant optimized with Intel OpenVINO.
-1. **EventEase** – Event management platform with backend & database focus.
-3. **Fitness Diet Planner** – Personalized diet plans using Spoonacular API and Flask.
+3. **EventEase** – Event management platform with backend & database focus.
+4. **Fitness Diet Planner** – Personalized diet plans using Spoonacular API and Flask.
 
 
 ---
